@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+h1, h2 {
+    color: #333; /* Adjust text color as needed */
+}
+
+.course-info {
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.about-me {
+    margin-top: 20px;
+}
+
+/* Add this style to change the text color in the "About Me" section */
+.about-me p {
+    color: #333; /* Adjust text color as needed */
+}
+
+/* Add this style to change the link color in case you have links */
+a {
+    color: #0066cc; /* Adjust link color as needed */
+}
